@@ -1,0 +1,5 @@
+x <- c(12,7,90,4.9,18,42,4,-21,8,-9,NA)
+result.mean <-  mean(x)
+print(result.mean)
+result.mean <-  mean(x,na.rm = TRUE)
+print(result.mean)
