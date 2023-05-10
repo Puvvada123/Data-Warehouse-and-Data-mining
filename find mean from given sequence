@@ -1,0 +1,6 @@
+print("sequence of numbers from 21 to 55:")
+print(seq(21,55))
+print("sequence of numbers from 25 to 70:")
+print(seq(25:70))
+print("sequence of numbers from 51 to 91:")
+print(seq(51:91))
